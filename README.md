@@ -1,6 +1,6 @@
 # 📝 Formulário Web - HTML & CSS
 
-![apresentacão do desafio](img/apresentacao.gif)
+![apresentacão do desafio](assets/apresentacao.gif)
 
 Projeto desenvolvido durante minha formação Full Stack, com foco na construção de um formulário completo utilizando **HTML e CSS**, explorando organização modular, estados de interação e layout responsivo.
 
